@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/jsavinash/sampleproject",
+    url="https://github.com/jsavinash/coronac",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
