@@ -20,7 +20,6 @@ backup/
 
 # Distribution / packaging
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
